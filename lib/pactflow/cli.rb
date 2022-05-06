@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-require_relative "client/version"
+require_relative "cli/version"
 
 module Pactflow
-  module Client
+  module Cli
     class Error < StandardError; end
     # Your code goes here...
   end

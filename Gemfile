@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-# Specify your gem's dependencies in pactflow-client.gemspec
+# Specify your gem's dependencies in pactflow-cli.gemspec
 gemspec
 
 gem "rake", "~> 13.0"

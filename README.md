@@ -1,5 +1,7 @@
 # Pactflow::Cli
 
+>_NOTE_ ⚠️ If you are looking for a Pact Broker client, which can interact with the PactFlow API, please see our docs [here](https://docs.pact.io/pact_broker/client_cli), where you find tool a tool with the `pactflow` command available to you. This repository does not currently contain usable code for consumers
+
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/pactflow/cli`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 TODO: Delete this and the text above, and describe your gem
